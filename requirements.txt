@@ -1,0 +1,9 @@
+flask
+requests
+beautifulsoup4
+openai
+pinecone
+flask-cors
+python-dotenv
+gunicorn
+sseclient-py
